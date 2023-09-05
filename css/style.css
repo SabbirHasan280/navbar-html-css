@@ -107,7 +107,6 @@ ol {
   position: relative;
   margin: auto 0;
   display: none;
-  /* background: #000; */
 }
 #navbar .bar span {
   position: absolute;
@@ -115,7 +114,7 @@ ol {
   font-size: 25px;
 }
 input[type="checkbox"] {
-  -webkit-appearance: none;
+  --webkit-appearance: none;
   display: none;
 }
 @media screen and (max-width: 1250px) {
