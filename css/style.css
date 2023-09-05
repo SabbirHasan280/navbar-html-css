@@ -24,7 +24,7 @@ ol {
 } */
 /*all common css end*/
 
-/* <header part new> */
+/* navbar part start */
 
 #navbar {
   width: 100%;
@@ -118,6 +118,8 @@ input[type="checkbox"] {
   --webkit-appearance: none;
   display: none;
 }
+/* navbar part end */
+
 @media screen and (max-width: 1250px) {
   #navbar {
     display: block;
