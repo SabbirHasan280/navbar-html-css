@@ -1,4 +1,4 @@
-/*all common css*/
+/*all common css start*/
 * {
   margin: 0;
   padding: 0;
@@ -22,7 +22,7 @@ ol {
 /* section {
   width: 100%;
 } */
-/*all common css*/
+/*all common css end*/
 
 /* <header part new> */
 #navbar {
@@ -272,7 +272,7 @@ input[type="checkbox"] {
   padding-top: 5px;
 }
 @media screen and (min-width: 1024px) {
-  ..h_overly p {
+  .h_overly p {
     color: rgb(248, 244, 6);
     font-size: 28px;
   }
