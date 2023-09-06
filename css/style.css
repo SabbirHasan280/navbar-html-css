@@ -139,7 +139,6 @@ input[type="checkbox"] {
   #navbar ul {
     display: flex;
     flex-direction: column;
-    /* background: rgb(45, 162, 168); */
     background: white;
     height: 0;
     visibility: hidden;
