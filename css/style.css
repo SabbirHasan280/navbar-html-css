@@ -143,7 +143,6 @@ input[type="checkbox"] {
     height: 0;
     visibility: hidden;
     transition: 0.3s;
-    /* width: 200px; */
   }
   #navbar ul li {
     text-align: center;
